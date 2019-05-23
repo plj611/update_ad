@@ -24,7 +24,7 @@ Update-ad.py is a Python script to update different properties of AD user in bat
   pip install openpyxl pyad pywin32
   ```
 
-  That will install the openpyxl and pyad modules
+  That will install the openpyxl  pyad and pywin32 modules
 
 - update-ad.py
 
