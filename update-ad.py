@@ -2,7 +2,7 @@ from openpyxl import Workbook, load_workbook
 from pyad import aduser
 
 def update_ad():
-   wb = load_workbook('p.xlsx')
+   wb = load_workbook(input('Please enter the name of the excel file: '))
    ws = wb.active
    ad_property = []
 
