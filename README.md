@@ -29,12 +29,13 @@ Update-ad.py is a Python script to update different properties of AD user in bat
 - update-ad.py
 
   ```
-  git clone https://github.com/plj611/....
+  git clone https://github.com/plj611/update_ad.git
   ```
 
 ### Execute
 
 ```
+cd update_ad
 python update-ad.py
 ```
 
